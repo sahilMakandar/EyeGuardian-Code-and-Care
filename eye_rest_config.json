@@ -1,0 +1,11 @@
+{
+    "_comment": "3 modes in notify_option: [beep_sound], [blank screen], [notification]",
+
+    "notify_option": "beep_sound",
+
+    "sound_level": 0.03,
+    
+    "sound_file_path": "sound_files/beep.mp3",
+
+    "app_running_status": false
+}
