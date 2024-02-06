@@ -7,5 +7,5 @@
     
     "sound_file_path": "sound_files/beep.mp3",
 
-    "app_running_status": false
+    "app_running_status": true
 }
