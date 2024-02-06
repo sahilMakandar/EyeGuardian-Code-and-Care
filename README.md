@@ -33,12 +33,12 @@ Recognizes when you're in meetings (Teams, Zoom, Google Meet) or engaged in mult
     screeninfo: sudo pip install screeninfo
 
 #### After Downloading EyeGuardian project
-move eye_rest_project to HOME directory
+##### move eye_rest_project to HOME directory
     mv ./eye_rest_project ~/.
     cd ~/./eye_rest_project
 
 #### After installing Dependencies
-for dry run test
+##### for dry run test
     python eye_rest.py beep_sound
 
 #### To automate script when you turn on your system
