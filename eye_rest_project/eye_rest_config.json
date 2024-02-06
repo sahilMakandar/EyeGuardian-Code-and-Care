@@ -1,5 +1,5 @@
 {
-    "_comment": "3 modes in notify_option: [beep_sound], [blank screen], [notification]",
+    "_comment": "3 modes in notify_option: [beep_sound], [blank_screen], [notification]",
 
     "notify_option": "beep_sound",
 
