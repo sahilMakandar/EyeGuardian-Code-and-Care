@@ -34,12 +34,12 @@ Recognizes when you're in meetings (Teams, Zoom, Google Meet) or engaged in mult
 
 #### After Downloading EyeGuardian project
 move eye_rest_project to HOME directory
-mv ./eye_rest_project ~/.
-cd ~/./eye_rest_project
+    mv ./eye_rest_project ~/.
+    cd ~/./eye_rest_project
 
 #### After installing Dependencies
 for dry run test
-python eye_rest.py beep_sound
+    python eye_rest.py beep_sound
 
 #### To automate script when you turn on your system
     crontab -e
